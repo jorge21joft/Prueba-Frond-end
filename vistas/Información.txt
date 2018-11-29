@@ -1,0 +1,7 @@
+Los enlaces a las páginas estan en el menú principal
+- LIFESTYLE
+- PHOTODIARY
+- MUSIC
+- TRAVEL
+contiene dos archivos css de estilos aparte del bootstrap
+style.css y style2.css
